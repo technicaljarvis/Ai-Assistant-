@@ -1,16 +1,16 @@
 import speech_recognition as sr #pip install speech recognition 
 from tkinter import * # pip install tkinter
-import pyttsx3
+import pyttsx3 #pip install pyttsx3 
 from pyttsx3 import drivers
 import pyjokes #pip install pyjokes
 import PyPDF2 #pip install PyPDF2
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup #pip install bs4
 import time
 from plyer import notification
-import datetime
-import webbrowser
-import wikipedia as wiki
+import datetime #pip install datetime 
+import webbrowser #pip install webbrowser 
+import wikipedia as wiki #pip install wikpedia
 from pytube import YouTube
 from tkinter.filedialog import *
 from tkinter.messagebox import *
