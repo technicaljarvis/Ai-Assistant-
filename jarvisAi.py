@@ -1,9 +1,9 @@
-import speech_recognition as sr
-from tkinter import *
+import speech_recognition as sr #pip install speech recognition 
+from tkinter import * # pip install tkinter
 import pyttsx3
 from pyttsx3 import drivers
-import pyjokes
-import PyPDF2
+import pyjokes #pip install pyjokes
+import PyPDF2 #pip install PyPDF2
 import requests
 from bs4 import BeautifulSoup
 import time
